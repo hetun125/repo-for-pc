@@ -1,2 +1,3 @@
 Git is a disturbed version control system.
 Git is free software under GPL.
+Git has a mutiable index called stage.
